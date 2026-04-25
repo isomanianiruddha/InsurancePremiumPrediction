@@ -1,6 +1,5 @@
 # Insurance Premium Prediction using Machine Learning
 
-Overview
 This project aims to predict **insurance premium charges** based on customer attributes such as age, BMI, smoking status, number of children, and region using machine learning models.The project compares multiple regression algorithms to identify the best-performing model for accurate prediction.
 
 
